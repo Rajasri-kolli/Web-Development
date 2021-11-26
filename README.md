@@ -26,8 +26,8 @@ Module 2: Consumers
 
 	Operating System       : Windows  
 	Techniques             : JDK 1.7
-  Databases              : Mysql
-	Server		             :Apache Tomcat
+        Databases              : Mysql
+	Server		       :Apache Tomcat
 
 
 
