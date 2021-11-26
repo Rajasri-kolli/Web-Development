@@ -24,10 +24,10 @@ Module 2: Consumers
 
 # SOFTWARE REQUIREMENT :
 
-	Operating System       : Windows  
-	Techniques             : JDK 1.7
-       Databases              : Mysql
-       Server		       :Apache Tomcat
+Operating System       : Windows  
+Techniques             : JDK 1.7
+Databases              : Mysql
+Server		       :Apache Tomcat
 
 
 
